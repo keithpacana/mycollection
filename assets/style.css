@@ -1,0 +1,184 @@
+body{
+	background: #F0F0F0;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 100px;
+	color: #2a2829;
+	text-align: center;
+
+}
+
+.outer-container {
+	margin-top: 408px;
+	display: flex;
+}
+
+
+/*box */
+/*.container{
+	position: absolute;
+	margin:auto;
+	left: 0;
+	right: 0;
+	width: 1100px;
+	height: 105px;
+	background-color:#512606;
+	top: 715px;
+}*/
+.container-2{
+/*	position: absolute;*/
+	margin:auto;
+	left: 36.5%;
+	width: 265px;
+	height: 105px;
+	background-color:#6A350D;
+	top: 715px;
+}
+.container-2:hover{
+	opacity: 10%;
+}
+.container-3{
+	position: absolute;
+	margin:auto;
+	left:50%;
+	width: 265px;
+	height: 105px;
+	background-color:#612B0E;
+	top: 715px;
+}
+
+#trapezoid {
+	position: absolute;
+	margin:auto;
+	left: 0;
+	right: 0;
+    border-bottom: 100px solid #512606;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    height: 20px;
+    width: 1000px;
+}
+/*#square {
+	position: absolute;
+	margin:auto;
+	left: 0;
+	right: 0;
+	top: 400px;
+    height: 270px;
+    width: 1000px;
+    background-color:#512606;
+}
+*/
+
+
+
+/*albums*/
+.album-container{
+	position: absolute;
+	display: flex;
+	width: 1000px;
+	height: 500px;
+	top: 300px;
+	left: 24%;
+}
+.album-1{
+	position: relative;
+	z-index: 0;
+	width: 250px;
+	height: 500px;
+	bottom: 0px;
+}
+.album-2{
+	position: relative;
+	z-index: 0;
+	width: 250px;
+	height: 500px;
+	bottom: 0px;
+	margin-left: 20px;
+}
+.album-3{
+	position: relative;
+	z-index: 0;
+	width: 250px;
+	height: 500px;
+	bottom: 0px;
+	margin-left: 20px;
+}
+.album-4{
+	position: relative;
+	z-index: 0;
+	width: 250px;
+	height: 500px;
+	bottom: 0px;
+	margin-left: 20px;
+}
+
+/*rock records*/
+#record-1{
+	position: absolute;
+	z-index: 0;
+	width: 240px;
+	top: 250px;
+	left: 0;
+	height: auto;
+}
+#record-2{
+	position: absolute;
+	z-index: 0;
+	width: 240px;
+	top: 210px;
+	left: 0;
+	height: auto;
+}
+#record-3{
+	position: absolute;
+	z-index: 0;
+	width: 240px;
+	top: 160px;
+	left: 0;
+	height: auto;
+}
+#record-4{
+	position: absolute;
+	z-index: 0;
+	width: 240px;
+	top: 110px;
+	left: 0;
+	height: auto;
+}
+#record-5{
+	position: absolute;
+	z-index: 0;
+	width: 240px;
+	top: 60px;
+	left: 0;
+	height: auto;
+}
+#record-6{
+	position: absolute;
+	z-index: 0;
+	width: 240px;
+	top: 10px;
+	left: 0;
+	height: auto;
+}
+.label{
+	position: absolute;
+	background-color: white;
+	z-index: 0;
+	width: 235px;
+	height: 100px;
+	top: -45px;
+	left: 0;
+	border: solid white;
+  	border-radius: 1em;
+}
+#label-text{
+	text-align: center;
+	margin-top: 3%;
+	font-family: 'Roboto', sans-serif;
+	font-size: 200%;
+}
+
