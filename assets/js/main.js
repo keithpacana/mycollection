@@ -99,62 +99,62 @@ function dragElement(elmnt) {
   }
 
   $("#reset-button").click(function() {
-      document.getElementById("record1-1").style.top = "250px";
+      document.getElementById("record1-1").style.top = "150px";
       document.getElementById("record1-1").style.left = "0";
 
 
 
-      document.getElementById("record1-2").style.top = "250px";
+      document.getElementById("record1-2").style.top = "150px";
       document.getElementById("record1-2").style.left = "0";
-      document.getElementById("record1-3").style.top = "250px";
+      document.getElementById("record1-3").style.top = "150px";
       document.getElementById("record1-3").style.left = "0";
-      document.getElementById("record1-4").style.top = "250px";
+      document.getElementById("record1-4").style.top = "150px";
       document.getElementById("record1-4").style.left = "0";
 
 
-      document.getElementById("record2-1").style.top = "210px";
+      document.getElementById("record2-1").style.top = "120px";
       document.getElementById("record2-1").style.left = "0";
-      document.getElementById("record2-2").style.top = "210px";
+      document.getElementById("record2-2").style.top = "120px";
       document.getElementById("record2-2").style.left = "0";
-      document.getElementById("record2-3").style.top = "210px";
+      document.getElementById("record2-3").style.top = "120px";
       document.getElementById("record2-3").style.left = "0";
-      document.getElementById("record2-4").style.top = "210px";
+      document.getElementById("record2-4").style.top = "120px";
       document.getElementById("record2-4").style.left = "0";
 
-      document.getElementById("record3-1").style.top = "160px";
+      document.getElementById("record3-1").style.top = "90px";
       document.getElementById("record3-1").style.left = "0";
-      document.getElementById("record3-2").style.top = "160px";
+      document.getElementById("record3-2").style.top = "90px";
       document.getElementById("record3-2").style.left = "0";
-      document.getElementById("record3-3").style.top = "160px";
+      document.getElementById("record3-3").style.top = "90px";
       document.getElementById("record3-3").style.left = "0";
-      document.getElementById("record3-4").style.top = "160px";
+      document.getElementById("record3-4").style.top = "90px";
       document.getElementById("record3-4").style.left = "0";
 
-      document.getElementById("record4-1").style.top = "110px";
+      document.getElementById("record4-1").style.top = "60px";
       document.getElementById("record4-1").style.left = "0";
-      document.getElementById("record4-2").style.top = "110px";
+      document.getElementById("record4-2").style.top = "60px";
       document.getElementById("record4-2").style.left = "0";
-      document.getElementById("record4-3").style.top = "110px";
+      document.getElementById("record4-3").style.top = "60px";
       document.getElementById("record4-3").style.left = "0";
-      document.getElementById("record4-4").style.top = "110px";
+      document.getElementById("record4-4").style.top = "60px";
       document.getElementById("record4-4").style.left = "0";
 
-      document.getElementById("record5-1").style.top = "60px";
+      document.getElementById("record5-1").style.top = "30px";
       document.getElementById("record5-1").style.left = "0";
-      document.getElementById("record5-2").style.top = "60px";
+      document.getElementById("record5-2").style.top = "30px";
       document.getElementById("record5-2").style.left = "0";
-      document.getElementById("record5-3").style.top = "60px";
+      document.getElementById("record5-3").style.top = "30px";
       document.getElementById("record5-3").style.left = "0";
-      document.getElementById("record5-4").style.top = "60px";
+      document.getElementById("record5-4").style.top = "30px";
       document.getElementById("record5-4").style.left = "0";
 
-      document.getElementById("record6-1").style.top = "10px";
+      document.getElementById("record6-1").style.top = "0px";
       document.getElementById("record6-1").style.left = "0";
-      document.getElementById("record6-2").style.top = "10px";
+      document.getElementById("record6-2").style.top = "0px";
       document.getElementById("record6-2").style.left = "0";
-      document.getElementById("record6-3").style.top = "10px";
+      document.getElementById("record6-3").style.top = "0px";
       document.getElementById("record6-3").style.left = "0";
-      document.getElementById("record6-4").style.top = "10px";
+      document.getElementById("record6-4").style.top = "0px";
       document.getElementById("record6-4").style.left = "0";
   });
 
