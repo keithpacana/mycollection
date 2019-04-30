@@ -228,6 +228,11 @@ h1{
   	transition: all .5s ease;
 
 }
+#inst {
+	font-family: 'Roboto', sans-serif;
+	margin-left: 37%;
+	margin-top: -35px;
+}
 #label-text{
 	text-align: center;
 	margin-top: 3%;
